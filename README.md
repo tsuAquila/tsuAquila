@@ -12,3 +12,4 @@
 <tr><td>
   <img src=https://github-readme-stats.vercel.app/api?username=tsuAquila&count_private=true&include_all_commits=true&show_icons=true&theme=dark alt=github-stats>
 </td><td>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsuAquila&repo=Intro-task)](https://github.com/anuraghazra/github-readme-stats)
