@@ -12,7 +12,7 @@
 
 <tr><td>
   <img src=https://github-readme-stats.vercel.app/api?username=tsuAquila&count_private=true&include_all_commits=true&show_icons=true&theme=dark alt=github-stats>
-  <img src=https://github-readme-stats.vercel.app/api/wakatime?username=tsuAquila&show_icon=true&theme=dark alt=wakatime-stats>
+  <img src=https://github-readme-stats.vercel.app/api/wakatime?username=tsuAquila&theme=dark alt=wakatime-stats>
 
  <h3>Pinned Repo</h3>
   <a href=https://github.com/tsuAquila/Intro-task>
