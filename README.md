@@ -1,6 +1,6 @@
 <h2>Hi there 👋</h2>
 
-- 🔭 I’m currently working on Nothing
+- 🔭 I’m currently working on a webscrapped API for loco.gg
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Python Projects
 - 🤔 I’m looking for help with CSS
