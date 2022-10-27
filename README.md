@@ -12,6 +12,11 @@
 <h3>Github Stats</h3>
   <img src=https://github-readme-stats.vercel.app/api?username=tsuAquila&count_private=true&include_all_commits=true&show_icons=true&theme=dark alt=github-stats>
 <h3>Pinned Repo</h3>
+
+<!--START_SECTION:waka-->
+
+
   <a href=https://github.com/tsuAquila/Intro-task>
     <img src=https://github-readme-stats.vercel.app/api/pin/?username=tsuAquila&repo=Intro-task&theme=dark&show_owner=true alt = pinned-repo href=https://github.com/tsuAquila/Intro-task>
   </a>
+<!--END_SECTION:waka-->
